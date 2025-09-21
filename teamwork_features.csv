@@ -1,0 +1,10 @@
+Feature,Description
+Client-Focused Design,Client-specific dashboards and portals for project visibility; proofing tools for design approvals and feedback loops.
+Milestones,Milestone tracking with deadlines and progress indicators; automated notifications for milestone completion.
+Billing Tools,Time-based and fixed-rate billing tied to tracked hours; invoice creation and payment tracking within the platform.
+Proofing Tools,Version control and annotations for creative assets (e.g., images, PDFs); client review cycles with approval workflows.
+AI Features,AI for risk prediction, identifying potential delays or budget overruns; resource forecasting to optimize team allocation.
+Task and Project Management,Kanban boards, Gantt charts, and task dependencies; subtasks and checklists for detailed planning.
+Collaboration,Real-time chat, file sharing, and comment threads; guest user access for external stakeholders.
+Integrations,Slack, Google Drive, QuickBooks, and Zapier for workflow automation; API for custom integrations.
+Reporting,Time, budget, and project health reports; customizable dashboards for team and client views.
