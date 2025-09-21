@@ -1,0 +1,9 @@
+Feature,Description
+Spreadsheet-Style Interface,Grid view with formulas, filters, and conditional formatting for data management; familiar Excel-like experience with real-time collaboration.
+Gantt Charts,Visual timelines with task dependencies, milestones, and critical path analysis; baseline comparisons to track project progress against plans.
+Resource Allocation,Workload views to assign tasks based on availability and skill sets; resource management for optimizing team utilization.
+Portfolio Dashboards,Centralized dashboards for portfolio-level insights across multiple projects; custom widgets for status, budget, and risk monitoring.
+Enterprise Reporting,Advanced reporting with pivot tables, charts, and exportable PDFs; integration with Power BI for deeper analytics.
+Workload Balancing,Automated alerts for over-allocation and capacity planning tools; scenario modeling for resource reallocation.
+Integrations,Connects with Microsoft 365, Google Workspace, Tableau, and Salesforce; API for custom integrations and data syncing.
+Security and Compliance,Role-based permissions, SSO, and GDPR compliance for enterprise use.
