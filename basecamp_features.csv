@@ -1,0 +1,31 @@
+Feature,Description
+Home Screen,Organizes projects, assignments, and upcoming events on one screen; provides a calm, simple starting point for daily work with clarity seconds after login.
+Projects,Central hub where tasks, discussions, deliverables, and decisions occur; keeps everything and everyone organized in a tidy, structured place.
+Reports,Provides evidence-based progress tracking (not just abstract metrics); enables accountability by showing actual work done or overdue.
+Visualizations,Includes tools like Lineup (project timeline), Mission Control (overview of all projects), and Hill Charts (visual progress from to-do lists); allows instant status checks at a glance.
+Notifications,Aggregates alerts in the Hey! menu; includes Pings for direct 1:1 or small-group messaging without overwhelming the inbox.
+Client Collaboration,Organizes interactions with clients, keeping feedback, decisions, approvals, files, tasks, deadlines, and communications centralized and on-record for partnership.
+To-Dos,Create task lists with deadlines, assignments (including to multiple people), subtasks, comments, and attached discussions; supports repeating tasks and notifications on completion.
+Card Tables,Kanban-style boards for organizing ideas, workflows, and tasks; drag-and-drop for rearranging.
+Message Boards,Threaded discussions for project updates, questions, and announcements; keeps all conversations attached to relevant items.
+Docs & Files,Central storage for documents and files; supports version control, annotations, and drag-and-drop organization; replaces tools like Google Docs or Dropbox.
+Schedules,Shared calendars for deadlines, events, and milestones; integrates with Google Calendar, iCal, or Outlook.
+Hill Charts,Visual progress tracking for to-do lists, showing status from "figuring out" to completion; includes Hilltop View for account-wide overview.
+Project Templates,Pre-built or custom templates from existing projects; supports duplicating to-do lists or full projects for repeatable work.
+Doors,Links to external tools like Google Docs, Figma, Dropbox, or Airtable directly within projects; enables sharing folders or files with external users.
+Lineup,Visual timeline of all projects; arranges by team, client, or time period for clarity (no task-level dependencies or Gantt charts).
+Mission Control,High-level dashboard for overseeing multiple projects; shows progress, overdue items, and assignments across the account.
+Automatic Check-Ins,Scheduled prompts for team updates on progress and blockers; fosters accountability without manual oversight.
+Campfires,Real-time group chat for quick discussions; supports @mentions and file sharing.
+Bookmarks,Save and reference project items (e.g., to-dos, chats, files) for easy access.
+Progress Needle,Simple indicator for overall project completion status.
+API Access,Full-featured API for custom integrations; supports third-party tools for invoicing, time tracking, reporting, and more.
+Integrations,Connects with 200+ apps including Slack, Zoom, Google Workspace; native support for cloud files from Figma and others.
+Mobile Access,iOS and Android apps with full feature parity to web; supports offline mode and push notifications.
+Data Export,Self-service export of all data in browsable formats; includes backups in multiple US data centers with off-site redundancy.
+Security and Compliance,Role-based permissions, SSO, GDPR compliance; data encrypted and stored redundantly.
+Personal Dashboard,Customizable overview of personal to-dos, messages, files, and schedules across projects.
+Hilltop View,Account-wide visualization of all Hill Charts for multi-project oversight.
+Out-of-Office Indicators,Notify team members of absences directly in the platform.
+Customization,Accent colors, tool names, message categories, and templates in multiple languages.
+Support and Learning,Expert customer support, video tutorials, and help guides; intuitive interface with no steep learning curve.
