@@ -1,0 +1,21 @@
+Feature,Description
+Task and Activity Tracking,Basic built-in task creation, assignment, and tracking with notifications and history logging.
+Account and Opportunity Teams,Tools for managing team collaboration on accounts and opportunities with role-based access.
+Field History Tracking,Logs all changes to project-related fields for audit trails and progress monitoring.
+Gantt Charts,Visual timelines with dependencies, milestones, and critical path analysis via native or AppExchange apps.
+Resource Allocation,Workload views and capacity planning to assign tasks based on availability and skills.
+Project Templates,Pre-built templates for repetitive processes to save setup time.
+Collaboration Tools,Real-time chat, file sharing, and Chatter for team communication within projects.
+Customizable Workspaces,Drag-and-drop agent desktops with timelines and 360-degree views.
+Automation with Flow Builder,No-code automations for workflows, triggers, and approvals.
+Integrations,1,000+ native connectors (e.g., Slack, Google Workspace) and MuleSoft for API syncing.
+Reporting and Dashboards,Custom dashboards, CRM Analytics, and Power BI integration for project metrics.
+AI-Powered Insights,Einstein for predictive scoring, next-best-actions, and task summarization.
+Custom Objects,Create tailored objects for project data structures like milestones or risks.
+Mobile Access,Dynamics 365 mobile app for on-the-go project management.
+Security and Compliance,Role-based access, GDPR/SOC 2, and Shield encryption for project data.
+Portfolio Management,Track multiple projects with portfolio dashboards and risk registers.
+Time Tracking,Integrated timesheets and burndown charts for effort monitoring.
+Budget Management,Track costs, revenue, and margins with financial integrations.
+Onboarding Tools,Customizable onboarding plans and training via myTrailhead.
+AppExchange Extensions,7,000+ apps for advanced PM like Mission Control or Wrike integration.
