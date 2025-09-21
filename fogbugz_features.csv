@@ -1,0 +1,28 @@
+Feature,Description
+Centralized Case Tracking,Tracks bugs, issues, feature requests, and tasks as unified cases in one place; each case is prioritized, assigned to a single person, and customizable with subtasks for accountability and timely closure.
+Customizable Workflows,Easily tailor case flows to match team needs, supporting planning at project, sprint, epic, user story, and task levels; supports methodologies like Scrum, Kanban, or Scrumban.
+Backlog Management,Maintains the entire project backlog with features, bugs, and issues for easy visibility into upcoming tasks.
+Separate Tracking Categories,Distinguishes between bugs, features, inquiries, and user stories (ideal for Extreme Programming or prioritized lists).
+Duplicate Case Linking,Automatically links and tracks duplicate bugs or issues.
+Logging and Notifications,Log bugs/issues via web forms or email; team members receive real-time notifications as cases progress through workflows.
+Inbound Email Support,Automatically creates and tracks cases from incoming emails, including software-related issues.
+Guest Submission,Allows external users (e.g., customers) to submit bugs without logging in, configurable per project.
+Custom Fields and Tagging,Add custom fields, tags, and priority levels to cases; filter by version or any field.
+Agile-First Design,Built for agile teams with sprint planning, epic management, and user story prioritization.
+Evidence-Based Scheduling (EBS),Statistical algorithm that analyzes historical timesheet data to generate accurate ship date probability distributions and delivery estimates.
+Time Tracking,Built-in timesheets for logging hours on cases, feeding into EBS for better forecasting.
+Task Assignment and Closure,Assign tasks/subtasks with details; track progress to ensure completion.
+Unified Search,Powerful, unified search across docs, wikis, articles, code, issues, bugs, and discussions; filter cases by multiple fields.
+Discussion Forums and Wikis,Integrated forums for team discussions and wikis for documentation.
+Subscriptions and Alerts,Subscribe to cases for email notifications on changes.
+Customer Relationship Management (CRM),Basic CRM tools for managing client interactions and inquiries.
+Third-Party Integrations,Seamless connections with Slack, Twitter, GitHub, Google Drive, Trello, and Jenkins (for build status reporting and API access).
+XML API Access,Full API for custom integrations, including authentication handling for tools like Jenkins.
+Email and Web Integrations,Supports deep linking (e.g., instant login to specific cases) and email-based workflows.
+Onboarding and Usability,No training required; intuitive interface for small to medium teams, with quick setup.
+Cloud-Based Deployment,Hosted option with Dockerized environment for easy scaling.
+Version Control Support,Tags bugs for specific releases; integrates with source control like GitHub.
+Snippets,Write a response once and reuse it for common bug reports to speed up issue tracking.
+Tagging System,Auto-suggests matching tags as you type to group items efficiently.
+Estimate from Grid View,Add estimates directly from the grid view of cases for quick planning.
+Detailed Time Tracking,Robust time tracking for logging hours, monitoring progress, and generating burndown charts.
