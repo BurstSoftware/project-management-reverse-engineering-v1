@@ -1,0 +1,24 @@
+Feature,Description
+Visual Building,Leading visual editor for fast iteration, showing results instantly; build with native nodes or custom code, suitable for everyday automations and complex AI agent workflows.
+No Boilerplate,Over 400 pre-configured integrations to eliminate repetitive code, avoiding documentation issues and CORS errors; use HTTP request node for apps without pre-built nodes, supporting existing credentials or curl commands.
+Fast Iteration,Enables building piece by piece with immediate feedback, showing outputs next to settings; execute only the last step or replay data without re-triggering events or enduring slow steps.
+Fall Back to Code,Use code node for custom transformations in JavaScript or Python, with npm package support on self-hosted instances; employ expressions for dynamic parameters, supporting JavaScript and Tournament templating language.
+Merge, Loop, Filter,Route data with switches and if nodes, create loops, and merge data; remove duplicates, split lists, aggregate items, and shape data using code.
+Diverse Triggers,Start workflows with app event triggers, cron jobs, chats, or event streams; use webhooks for services without dedicated triggers, enabling nested workflow setups.
+AI Nodes,Built-in AI nodes for chatting, summarizing content, and answering document queries; fast to prototype and deploy to staging or production; use LangChain for modular apps integrating into existing workflows, with control over models and data flow.
+Multi-Step Agents,Use for summarizing content or answering complex queries, enhancing workflow interactions.
+Existing Scaffolding,Straightforward deployment to staging and production, with various models or local LLM runs for complete control.
+Modular Apps,Build on LangChain, integrating smoothly into existing workflows and embedding AI into products.
+Pre-Configured Integrations,Over 400 integrations to reduce repetitive code and simplify connectivity; use HTTP request node for apps without pre-built nodes.
+Completely Custom Alerting,Send error notifications anywhere, separately or all at once; call backup workflows for immediate error handling, gain insights on workflow performance over time, and stream logs to any log aggregator.
+SOC 2 Compliance,SOC 2 audited with regular external pen tests to ensure data security.
+Fetch Secrets,Retrieve secrets from AWS Secrets Manager, Azure Key Vault, Google Cloud Platform, HashiCorp Vault, and Infisical without saving them in n8n.
+Limit Access,Use projects and roles to give team access to collections of workflows and credentials, tightening security by limiting access to relevant teams.
+Use Environments,Git-based source control supports environments with a push-pull pattern for moving work between environments.
+Host On Premise,Built on a fair code license, available on GitHub with deployment options like Docker or Kubernetes; run air-gapped on private networks or use the cloud solution; community version is free, with enterprise license options.
+Scale Up,Set up execution modes like queue mode with multiple instances and workers, handling up to 220 workflow executions per second on a single instance.
+Fair-Code Licensing,Product built on a fair code license, available on GitHub, with community version free and enterprise license options.
+Self-Hosting Options,Supports on-premise hosting with Docker or Kubernetes, including air-gapped setups on private networks.
+Chat with Your Own Data,Features like "Chat with Your Own Data" allow interaction with internal data sources via various chat interfaces.
+Workflow Management & Templates,To streamline development and management, n8n offers features like workflow version control using Git integration, detailed workflow execution history, and robust debugging tools.
+Embeddable Automation,n8n provides technology that allows businesses to embed white-labeled automation capabilities directly into their own products or services, offering value-added features to their customers.
